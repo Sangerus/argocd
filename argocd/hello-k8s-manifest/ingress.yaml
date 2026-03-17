@@ -8,10 +8,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - hello-k8s.vuihoctech.com
+    - hello-k8s.sangerus.com
     secretName: hello-k8s-tls
   rules:
-    - host: hello-k8s.vuihoctech.com
+    - host: hello-k8s.sangerus.com
       http:
         paths:
           - pathType: Prefix
