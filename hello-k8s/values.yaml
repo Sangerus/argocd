@@ -10,7 +10,7 @@ service:
 
 image:
   repository: tonykien2012/hello-k8s
-  tag: '3.0'
+  tag: '5.0'
   pullPolicy: IfNotPresent
 
 replicaCount: 1
