@@ -26,4 +26,4 @@ jobs:
           file: ./project/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: sangerusofficial/hello-k8s:4.5
+          tags: sangerusofficial/hello-k8s:5.0
